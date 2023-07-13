@@ -52,68 +52,68 @@
 
 ## Reusability | 再利用性
 
-### Composables | 
+### Composables | コンポーザブル
 
-### Custom Directives |
+### Custom Directives | カスタムディレクテブ
 
-### Plugins |
+### Plugins | プラグイン
 
-## Built-in Components |
+## Built-in Components | 組み込みコンポーネント
 
-### Transition |
+### Transition | トランジション
 
-### TransitionGroup |
+### TransitionGroup | トランジショングループ
 
-### KeepAlive |
+### KeepAlive | KeepAlive
 
-### Teleport |
+### Teleport | Teleport
 
-### Suspense |
+### Suspense | Suspense
 
-## Scaling Up |
+## Scaling Up | スケールアップ
 
-### Single-File Components |
+### Single-File Components | 単一ファイルコンポーネント(SFC)
 
-### Tooling |
+### Tooling | ツール
 
-### Routing |
+### Routing | ルーティング
 
-### State Management |
+### State Management | 状態管理
 
-### Testing |
+### Testing | テスト
 
-### Server-Side Rendering (SSR) |
+### Server-Side Rendering (SSR) | サーバーサイドレンダリング(SSR)
 
-## Best Practices |
+## Best Practices | ベストプラクティス
 
-### Production Deployment |
+### Production Deployment | 本番デプロイ
 
-### Performance |
+### Performance | パフォーマンス
 
-### Accessibility |
+### Accessibility | アクセシビリティ
 
-### Security |
+### Security | セキュリティ
 
-## TypeScript |
+## TypeScript | TypeScript
 
-### Overview |
+### Overview | 概要
 
-### TS with Composition API |
+### TS with Composition API | Composition APIとTypeScript
 
-### TS with Options API |
+### TS with Options API | Options APIとTypeScript
 
-## Extra Topics |
+## Extra Topics | 番外トピック
 
-### Ways of Using Vue |
+### Ways of Using Vue | Vueのさまざまな活用方法
 
-### Composition API FAQ |
+### Composition API FAQ | Composition APIのFAQ
 
-### Reactivity in Depth |
+### Reactivity in Depth | リアクティビティの探求
 
-### Rendering Mechanism |
+### Rendering Mechanism | レンダリングの仕組み
 
-### Render Functions & JSX |
+### Render Functions & JSX | レンダー関数とJSX
 
-### Vue and Web Components |
+### Vue and Web Components | VueとWebコンポーネント
 
-### Animation Techniques |
+### Animation Techniques | アニメーションテクニック
